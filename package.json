@@ -45,7 +45,7 @@
     "gulp-eslint": "^4.0.0",
     "gulp-mocha": "^4.3.1",
     "gulp-sourcemaps": "^2.6.0",
-    "sequelize": "^4.2.1",
+    "sequelize": "^5.15.1",
     "source-map-support": "^0.4.15",
     "sqlite": "^2.8.0"
   },
@@ -53,7 +53,7 @@
     "graphql": "^0.11.3",
     "graphql-relay": "^0.5.2",
     "graphql-sequelize": "^5.3.3",
-    "sequelize": "^4.2.1"
+    "sequelize": "^5.15.1"
   },
   "dependencies": {
     "deepmerge": "^1.5.1"
